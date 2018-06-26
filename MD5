@@ -1,14 +1,14 @@
-983a811094b250c8941744b73b7662db *DESCRIPTION
+52a2d94b9abc9f9d2597ee4616ae3f86 *DESCRIPTION
 464186ee99381349198c3ba383fb2bbf *NAMESPACE
 c89766b3fde36003d440059fba627c57 *R/data-doc.R
 99bdab7e1d1ca76402f66c1ddfc35839 *R/plotting-functions.R
 cbc30d13d7a7313d63ff7f2fc06b352b *R/treeDA.R
 6ed28305eda4e35748215caca25707c6 *R/treeda-functions.R
-b68a15fa88e466b85a8df0476b1f0780 *build/vignette.rds
+38bfe1306a039919604f253b0fed9b9f *build/vignette.rds
 cd5ed235cd6dd45aa45c4d9530feb82b *data/treeda_example.RData
 4361efcecb64e2a43ea39cc45c25fced *inst/doc/treeda-vignette.R
 d3f49f4f1d121801cc7f99965bc9ce4a *inst/doc/treeda-vignette.Rmd
-72f051137a7679cb262cdc4ddf0be6ca *inst/doc/treeda-vignette.html
+e1f90ab025bee676fc0c7eb8765dcdda *inst/doc/treeda-vignette.html
 be768364a00dac87d4e3c2302cb55437 *man/checkPredictorsAndTree.Rd
 6a8b9c00e89d413b501df7f542a6577c *man/coef.treeda.Rd
 cd046cc6072e54466b0aef1c80fc01de *man/combine_plot_and_tree.Rd
